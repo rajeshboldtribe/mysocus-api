@@ -1,0 +1,22 @@
+PAYABLE_YEAR,PAYABLE_MONTH,NAME,ROLE,PHONE_NUMBER,SALARY,PAYMENT_MODE,BUILDING_ACCOUNT,RECEIVER_ACCOUNT
+2020,June,Saras Dev,Employee,9988113344,4500,Cash,, - 
+2020,June,Dillip Water boys,Vendor,898989898,5000,Bank,SBI - 325151,HDFCC - 78787878787
+2020,June,Saif Ali Khan,Employee,12994401234,10000,Bank,SBI - 325151, - 
+2020,June,Dj,Employee,7809424242,10000,Bank,SBI - 325151, - 
+2020,May,Dillip Water boys,Vendor,898989898,6788,Cash,,HDFCC - 78787878787
+2020,June,Saras 2,Employee,9001002234,1200,Cash,, - 
+2020,June,Security Admin,Employee,9001002235,2300,Cash,, - 
+2020,June,Saras as admin,Employee,9911334455,5600,Cash,, - 
+2020,June,Kasturi,Employee,8383833,5600,Cash,,HDFC - 8373764545
+2020,June,Test Employee 2,Employee,9873331122,4500,Cash,,13213 - 13123
+2020,June,Test employee,Employee,9800897766,5600,Cash,,asdasd - 123123
+2020,June,Saraschandraa,Employee,9001002222,56,Cash,, - 
+2020,May,Kasturi,Employee,8383833,4500,Cash,,HDFC - 8373764545
+2020,May,Saif Ali Khan,Employee,12994401234,10000,Bank,SBI - 325151, - 
+2020,May,Dillip Watermans,Vendor,89894545,5000,Bank,SBI - 325151,HDFCCDR - 0231598964567
+2020,May,Security Admin,Employee,9001002235,67,Bank,SBI - 325151, - 
+2020,May,Saras as admin,Employee,9911334455,78,Bank,SBI - 325151, - 
+2020,May,Saras 2,Employee,9001002234,678,Bank,SBI - 325151, - 
+2020,May,Test employee,Employee,9800897766,7000,Cash,,asdasd - 123123
+2020,May,Saraschandraa,Employee,9873331122,200000,Cash,,13213 - 13123
+2020,May,Test Employee 2,Employee,9873331122,200000,Bank,SBI - 325151,13213 - 13123

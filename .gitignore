@@ -1,0 +1,29 @@
+#paytm
+# paytm
+# config/database.js
+# config/gmail_config.js
+
+# Firebase credentials (contains sensitive data)
+config/apartment-erp-firebase-adminsdk-*.json
+config/firebase_key.js
+
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+.env
+.env.local
+.env.production
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

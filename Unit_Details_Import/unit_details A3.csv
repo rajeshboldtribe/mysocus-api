@@ -1,0 +1,7 @@
+Unit_Name,Square_Feet,Unit_Description,Resident_Name,Resident_Email,Resident_Contact_Number,Resident_Permanent_Address,is_residing(Yes/No),Tenant_Name,Tenant_Email,Tenant_Contact_Number,Tenant_Permanent_Address,Parking_Space
+A3-100,10000,It is a Unit,Sun,Sun@gmail.com,456372,Nagpur,Yes,Sun,Sun@gmail.com,456372,Nagpur,A3-100
+A3-101,10000,It is a Unit,Bun,Bun@gmail.com,914527,Nagpur,Yes,Bun,Bun@gmail.com,914527,Nagpur,A3-101
+A3-102,10000,It is a Unit,Tun,Tun@gmail.com,767343,Nagpur,Yes,Tun,Tun@gmail.com,767343,Nagpur,A3-102
+A3-103,10000,It is a Unit,Kun,Kun@gmail.com,232989,Nagpur,Yes,Kun,Kun@gmail.com,232989,Nagpur,A3-103
+A3-104,10000,It is a Unit,Nun,Nun@gmail.com,645567,Nagpur,No,Bun,Bun@gmail.com,263799,Nagpur,A3-104
+A3-105,10000,It is a Unit,Mun,Mun@gmail.com,293854,Nagpur,No,Run,Run@gmail.com,333333,Nagpur,A3-105

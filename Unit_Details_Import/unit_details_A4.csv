@@ -1,0 +1,4 @@
+Unit_Name,Square_Feet,Unit_Description,Resident_Name,Resident_Email,Resident_Contact_Number,Resident_Permanent_Address,is_residing(Yes/No),Tenant_Name,Tenant_Email,Tenant_Contact_Number,Tenant_Permanent_Address,Parking_Space
+A4-100,1000,It is a Unit,Asim,Asim@mysocus.com,2111,Raigarh,Yes,,,,,
+A4-103,1000,It is a Unit,Dasim,Dasim@mysocus.com,5111,Raigarh,No,Easim,Asim@mysocus.com,6111,Raigarh,
+

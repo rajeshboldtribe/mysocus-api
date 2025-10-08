@@ -1,0 +1,3 @@
+Unit_Name,Square_Feet,Unit_Description,Resident_Name,Resident_Email,Resident_Contact_Number,Resident_Permanent_Address,is_residing,Tenant_Name,Tenant_Email,Tenant_Contact_Number,Tenant_Permanent_Address,Parking_Space
+1005,1225,nothing,Debasish4,xxx5@ccc.com,8838383842,Patia,YES,,,,,D127
+1006,1225,nothing,Debasish5,xxx6@ccc.com,8838383843,Patia,NO,Debasish6,xxx7@ccc.com,8838383844,Patia,D128

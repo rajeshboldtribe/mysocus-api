@@ -1,0 +1,43 @@
+{
+  "name": "nextstacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Appstone",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.1",
+    "csv-parser": "^2.2.0",
+    "csv-writer": "^1.6.0",
+    "ejs": "^3.0.2",
+    "email-templates": "^5.0.4",
+    "excel-export": "^0.5.1",
+    "export-to-excel": "^0.2.1",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "firebase-admin": "^8.8.0",
+    "fs": "0.0.1-security",
+    "hogan": "^1.0.2",
+    "hogan.js": "^3.0.2",
+    "instamojo-nodejs": "0.0.5",
+    "json2csv": "^4.5.4",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "mongodb": "^3.2.2",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.2.1",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "nodemon": "^1.19.4",
+    "npm": "^6.14.8",
+    "path": "^0.12.7",
+    "read-excel-file": "^4.0.5",
+    "xoauth2": "^1.2.0"
+  }
+}
